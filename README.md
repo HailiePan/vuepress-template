@@ -1,8 +1,8 @@
 <!--
  * Author  rhys.zhao
  * Date  2023-03-02 19:47:11
- * LastEditors  rhys.zhao
- * LastEditTime  2023-07-21 11:10:39
+ * LastEditors  hailie.pan
+ * LastEditTime  2023-08-31 09:54:22
  * Description
 -->
 
@@ -14,7 +14,7 @@
 
 在 github pages 里添加分支 `deploy-page` 即可部署上线。
 
-## 使用
+<!-- ## 使用
 
 可以直接克隆项目使用。
 
@@ -24,7 +24,7 @@
 npx happy-react-cli init my-vuepress
 ```
 
-然后选择 `vuepress` 模板即可。
+然后选择 `vuepress` 模板即可。 -->
 
 ## 项目目录
 
